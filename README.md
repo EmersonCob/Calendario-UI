@@ -6,7 +6,6 @@
 
  <img src="./img/result.gif" alt="Exemplo">
  <img src="./img/result1.png" alt="Exemplo">
- <img src="./img/result2.png" alt="Exemplo">
 
  ## Techs
 
