@@ -82,14 +82,15 @@ section::after {
 
 #dycalendar table td{
     color: #fff;
-    padding: 8px;
+    padding: 6px;
     cursor: pointer;
     border-radius: 4px;
 }
 
 #dycalendar table td:hover{
     background: rgba(255,255,255,0.1);
-    color : #111 !important; 
+    color : rgb(51, 235, 91) !important;
+    font-weight: 500; 
 }
 
 
@@ -97,7 +98,8 @@ section::after {
     background: rgba(255,255,255,0.1);
     box-shadow: 0 25px 45px rgba(0,0,0,0.5);
     border: 1px solid rgba(255, 255, 255, 0.116);
-    color : #fff !important;
+    color : rgb(201, 192, 192) !important;
+    font-weight: 700;
 }
 
 .dycalendar-month-container .dycalendar-header .dycalendar-prev-next-btn.prev-btn {
